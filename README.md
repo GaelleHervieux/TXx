@@ -1,9 +1,9 @@
-TXx_CONUS_plots_evgam_extremes_1940-2025 : it's really just a first look comparing evgam and extRemes results. 
+**TXx_CONUS_plots_evgam_extremes_1940-2025 :** it's really just a first look comparing evgam and extRemes results. 
 
 
-TXx_USA_plots_extremes_1940vs1979.ipynb : Compare extRemes analyses at each point using a time covariate on the location and scale parameters for the 1941-2025 period versus the 1979-2025 period.   
+**TXx_USA_plots_extremes_1940vs1979.ipynb :** Compare extRemes analyses at each point using a time covariate on the location and scale parameters for the 1941-2025 period versus the 1979-2025 period.   
 
-TXx_USA_plots_extremes_PDO_1979.ipynb : Compare extRemes analyses at each point using a time covariate (GLOST) on the location and scale parameters and also a (June-July-August) PDO covariate on the location parameter for the 1941-2025 period versus the 1979-2025 period. 
+**TXx_USA_plots_extremes_PDO_1979.ipynb :** Compare extRemes analyses at each point using a time covariate (GLOST) on the location and scale parameters and also a (June-July-August) PDO covariate on the location parameter for the 1941-2025 period versus the 1979-2025 period. 
 
 P value computation:
 
@@ -18,7 +18,7 @@ P value computation:
 
 
 
-TXx_USA_plots_extremes_PDO_1979_pvalue1.ipynb : Compare extRemes analyses at each point using a time covariate (GLOST) on the location and scale parameters and also a (June-July-August) PDO covariate on the location parameter for the 1941-2025 period versus the 1979-2025 period. 
+**TXx_USA_plots_extremes_PDO_1979_pvalue1.ipynb :** Compare extRemes analyses at each point using a time covariate (GLOST) on the location and scale parameters and also a (June-July-August) PDO covariate on the location parameter for the 1941-2025 period versus the 1979-2025 period. 
 
 P value computation:
 
