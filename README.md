@@ -30,3 +30,11 @@ P value computation:
     %R rpvalueL <- lr.test(m_gev, m_gevL)$p.value      # Location - GLOST smooth
     %R rpvalueLp <- lr.test(m_gev, m_gevLp)$p.value    # Location - PDO smooth
     %R rpvalueS <- lr.test(m_gev, m_gevS)$p.value      # Scale - GLOST smooth
+
+**plot_TXx_Alaska_glostLocSca_extRemes_comp_1941-2025 :** 
+Plots Comparisons
+Alaska extRemes
+
+'Loc & scale: time':  location.fun= ~ glost, scale.fun = ~glost <br>
+'Loc: time':  location.fun= ~ glost <br>
+'Loc & scale:time + Loc:PDO':  location.fun= ~ glost + PDO, scale.fun = ~glost <br>
