@@ -1,3 +1,6 @@
+**plot_TXx_Alaska_glostLocSca_extRemes_1941-2025 :** extRemes GEV analysis on TXx at each point using a time covariate (GLOST) on the location and scale parameters. Display model scores and confidence intervals. 
+
+
 **TXx_CONUS_plots_evgam_extremes_1940-2025 :** it's really just a first look comparing evgam and extRemes results. 
 
 
